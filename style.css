@@ -1,0 +1,13 @@
+
+.slide{
+    width: 100%;
+}
+.container-1{
+  
+    justify-content: space-between;
+}
+@media all and (max-width:360px){
+    body{
+        width: 348px;
+    }
+}
